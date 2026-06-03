@@ -1766,8 +1766,8 @@
     }
   },
   "git_nar_sha256": {
-    "tane-0.1.0": "sha256-Va5xgILTX9CDnfIqLGKPpgeoTHGiPjmwpoz3TQUvhrw=",
-    "waku-0.1.0": "sha256-dFnUioA3v6kXoVLKDhyBuyrYcJ+jLI7Q3tguDuJ66b0="
+    "tane-0.1.0": "sha256-ubMjCis9b2Jwdlv093hxJ1n4C38WovAQ2qbxearynQg=",
+    "waku-0.1.0": "sha256-/ofIJso97JjzWLOUy8Wm1luVIOiYawyopLE5qLk8grY="
   },
   "flake_metadata": {}
 }
